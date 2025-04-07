@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TelaDeLogin.Services
 {
-    class UsuarioService
+    class UserService
     {
     }
 }

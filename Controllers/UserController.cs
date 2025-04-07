@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TelaDeLogin.Models
+namespace TelaDeLogin.Controllers
 {
-    class UsuarioModel
+    class UserController
     {
     }
 }
